@@ -16,8 +16,8 @@
         document.getElementById("randomNumber").innerHTML = number;
       }
     </script>
-    <script src="https://github.com/chartjs/Chart.js/releases/download/v2.7.2/Chart.bundle.js"></script>
-<!-- 	  <script src="../../utils.js"></script> -->
+    <script src="Chart.bundle.js"></script>
+    <script src="utils.js"></script>
 	  <style>
   	  canvas {
         -moz-user-select: none;
